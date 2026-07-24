@@ -13,6 +13,7 @@ SQLite
 ###1. 저장소 복제
 
 git clone https://github.com/<krmaru>/whs-hacker-programming.git
+
 cd tiny-secondhand-secure
 
 ###2. 데이터베이스 초기화
