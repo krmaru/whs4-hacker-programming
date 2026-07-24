@@ -22,7 +22,7 @@ python3 app.py init-db
 
 ###3. 관리자 계정 생성
 
-python3 app.py create-admin admin '강력한비밀번호'
+python3 app.py create-admin admin 'qwer1234!A'
 
 ###4. 서버 실행
 
